@@ -1,5 +1,5 @@
 ## Hi I'm Sam 👋
-<h3 align="center"> Senior DevOps Engineer</h3>
+<h3 align="center"> Senior DevOps Engineer/Cloud Architect</h3>
 
 - 🔭 I’m currently working on [Azure DevSecOps CI/CD Project](https://github.com/SamNwangwu/Azure-DevSecOps-Project)
 
